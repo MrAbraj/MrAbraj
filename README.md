@@ -1,6 +1,6 @@
 # Hi, I'm Abhinay 👋
 
-**Senior Frontend Engineer building fast, scalable and real-time web experiences.**
+**Frontend Engineer building fast, scalable and real-time web experiences.**
 
 Currently at **GoTo**, working on meeting and webinar products.
 
